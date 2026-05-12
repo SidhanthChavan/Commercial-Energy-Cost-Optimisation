@@ -90,3 +90,13 @@ NCC components are modelled on published 2025/26 UK regulatory rates:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 All dependencies are standard — no installation required beyond a default Colab environment:
+
+## Tech Stack
+
+Python · Pandas · NumPy · Scikit-Learn · Matplotlib · Seaborn · Plotly · Power BI
+
+## Author
+
+**Sidhanth Chavan**
+MSc Data Science — Manchester Metropolitan University
+linkedin.com/in/sidhanth-chavan · github.com/SidhanthChavan
